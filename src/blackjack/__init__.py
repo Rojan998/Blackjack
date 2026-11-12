@@ -1,2 +1,2 @@
-def main() -> None:
-    print("Hello from blackjack!")
+"""Console Blakcjack Project """
+__version__ = "0.1.0"
